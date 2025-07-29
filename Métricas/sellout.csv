@@ -1,0 +1,305 @@
+;;;;;Valores PVP c/IVA;;;
+Cadena;Código SAP POS;Local;Online/Offline;División;may-24;may-25;jun-24;jun-25
+Preunic;3410735;131 Preunic - Av. Alemania 671, Temuco;Offline;Lifestyle;2.317.698,74;2.401.890,05;2.659.007,40;1898561,7
+Preunic;3394348;075 Preunic - Manuel Montt 350, Coronel;Offline;Lifestyle;2.366.198,38;2.083.092,62;2.020.689,02;1334400,55
+Preunic;3394319;047 Preunic - Barros Luco 105, San Antonio;Offline;Lifestyle;3.311.856,87;4.027.369,36;3.711.193,50;3157360,36
+Preunic;3394490;089 Preunic - Concha y Toro 468, Puente Alto;Offline;Lifestyle;1.118.600,00;1.086.704,43;1.209.300,61;1202480,72
+Preunic;3436234;142 Preunic - José Pedro Alessandri 1166, Ñuñoa;Offline;Lifestyle;0;591.969,07;0,00;802426,52
+Maicao;3399184;205 Maicao - Del Salvador 240, Puerto Varas;Offline;Lifestyle;904.165,95;954.519,94;794.666,01;999162,9963
+Maicao;3399254;014 Maicao - Estado 114, Santiago;Offline;Lifestyle;788.273,98;897.761,01;691.402,03;553471,023
+Maicao;3399228;035 Maicao - Manuel Antonio Matta 536, Quilicura;Offline;Lifestyle;1.520.163,96;1.228.797,97;1.005.972,06;1130515,101
+Maicao;3399034;263 Maicao - OHiggins 198, Quillota;Offline;Lifestyle;1.301.651,01;1.829.969,96;1.410.230,03;1171043,074
+Maicao;3399096;408 Maicao - Quechereguas 2027, Molina;Offline;Lifestyle;3.459.771,72;2.880.129,96;3.355.595,20;2753135,031
+Maicao;3399265;293 Maicao - Av. Américo Vespucio 1501, Cerrillos;Offline;Lifestyle;1.020.071,94;1.075.767,95;1.106.022,03;683379,0509
+Maicao;3394425;248 Maicao - Américo Vespucio 75, La Cisterna;Offline;Lifestyle;5.372.066,71;4.746.454,88;5.043.444,02;4352973,174
+Maicao;3436255;459 Maicao - Avenida Ambrosio Ohiggins 1998, Curacaví;Offline;Lifestyle;1.380.002,89;1.790.025,88;1.304.686,05;1293652,998
+Maicao;No Definido;482 Maicao - Sin Direccion;Offline;Lifestyle;0;1.383.038,91;0,00;1019784,007
+Maicao;3410737;456 Maicao - Av. Balmaceda # 233, Laja;Offline;Lifestyle;2.815.553,93;3.659.790,91;2.772.591,09;3098953,077
+Maicao;3394403;445 Maicao - Tarapacá 521, Iquique;Offline;Lifestyle;739.123,96;711.467,97;895.267,98;568287,0109
+Maicao;3399162;452 Maicao - Av Bernardo OHiggins # 978 Local 1, Lautaro;Offline;Lifestyle;3.129.484,93;4.466.025,89;2.404.980,08;3807405,012
+Maicao;3399123;451 Maicao - Aníbal Pinto 592, Concepción;Offline;Lifestyle;3.445.248,87;3.089.786,92;3.534.814,08;1975411,079
+Maicao;3399253;286 Maicao - Estado 352, Santiago;Offline;Lifestyle;697.646,96;840.096,98;715.060,97;825605,0187
+Maicao;3399244;447 Maicao - Terminal Sur Interior, Local 102, Estación Central;Offline;Lifestyle;2.576.915,96;0;978.564,05;0
+Maicao;3436231;471 Maicao - Barros Arana 541, Concepción;Offline;Lifestyle;854.774,94;1.233.327,96;928.014,06;1239285,052
+Maicao;3436256;473 Maicao - 21 de mayo #523, Santiago;Offline;Lifestyle;668.348,98;844.769,98;612.524,07;986171,0999
+Preunic;3394329;052 Preunic - Vivar 610, Iquique;Offline;Lifestyle;2.115.139,32;2.257.227,70;2.363.965,94;2299575,04
+Preunic;3394285;018 Preunic - Calle Martirreno 3349, Peñalolén;Offline;Lifestyle;1.536.661,28;1.348.449,69;1.826.295,38;1451050,3
+Preunic;3394523;039 Preunic - Alameda 3470, Estación Central;Offline;Lifestyle;1.932.545,72;1.018.712,59;2.354.194,85;1274568,54
+Maicao;3399116;407 Maicao - Rio Seco 305, Lebu;Offline;Lifestyle;6.833.050,66;7.211.271,85;5.520.039,08;5287244,922
+Maicao;3394289;047 Maicao - Cordovez 687, La Serena;Offline;Lifestyle;3.575.396,82;3.143.854,98;2.354.956,05;2150065,07
+Maicao;3399325;211 Maicao - Esmeralda 706, La Unión;Offline;Lifestyle;4.425.435,83;4.513.713,93;4.119.601,11;3113651,077
+Maicao;3394394;265 Maicao - Av. Valparaíso 901-905, Viña del Mar;Offline;Lifestyle;2.992.840,98;2.915.777,92;2.272.180,13;2012499,083
+Maicao;3394427;453 Maicao - Eyzaguirre 665, San Bernardo;Offline;Lifestyle;2.025.203,89;1.457.051,95;1.964.708,12;1868470,027
+Maicao;No Definido;480 Maicao - Av. Andres Bello 2447 Loc 264, Providencia;Offline;Lifestyle;0;639.273,99;0,00;1019784,007
+Preunic;3394306;012 Preunic - Barros Arana 774, Concepción;Offline;Lifestyle;12.078.479,77;12.626.240,34;10.239.835,76;9144452,66
+Preunic;3394323;103 Preunic - Chacabuco 255, Quillota;Offline;Lifestyle;1.778.256,27;2.012.237,64;1.964.153,31;1455855,52
+Preunic;3399348;053 Preunic - Manuel Rodriguez 720, San Fernando;Offline;Lifestyle;2.177.724,99;2.931.205,62;2.207.566,62;2790407,2
+Preunic;3394420;013 Preunic - Av. Eyzaguirre 591, San Bernardo;Offline;Lifestyle;2.569.770,49;2.259.883,78;3.215.344,30;2457323,82
+Maicao;3398985;242 Maicao - Vivar 836, Iquique;Offline;Lifestyle;908.670,92;911.025,94;974.549,96;987138,0701
+Maicao;3399032;018 Maicao - José Joaquín Pérez 142, Calera;Offline;Lifestyle;1.928.603,93;0;1.836.377,04;0
+Maicao;3399159;419 Maicao - Bernardo OHiggins 372, Pucón;Offline;Lifestyle;2.969.193,89;3.307.400,99;2.668.041,06;2748178,967
+Maicao;3399235;011 Maicao - Recoleta 305, Recoleta;Offline;Lifestyle;1.183.936,90;1.149.116,98;1.269.856,09;679711,0306
+Maicao;3399126;400 Maicao - Barros Arana 780, Concepción;Offline;Lifestyle;2.498.106,86;2.529.458,93;2.392.238,00;2215923,121
+Maicao;3399239;291 Maicao - Av. 5 de Abril #33, Maipú;Offline;Lifestyle;2.782.033,93;2.629.824,96;2.182.754,03;1706290,08
+Maicao;3399124;256 Maicao - Colón 426, Los Ángeles;Offline;Lifestyle;3.337.407,78;3.166.451,91;2.754.483,02;2995832,211
+Maicao;3394435;233 Maicao - San Diego 2102, Santiago;Offline;Lifestyle;1.722.162,87;1.361.529,92;1.441.298,13;1474169,001
+Maicao;3399118;078 Maicao - Colón 260, Talcahuano;Offline;Lifestyle;4.139.496,75;3.236.991,94;3.245.090,98;2480246,052
+Maicao;3399125;411 Maicao - Manuel Montt 1062, Tomé;Offline;Lifestyle;3.730.382,84;2.605.153,94;2.735.789,08;2636148,095
+Maicao;3399000;276 Maicao - Constitución 415, Illapel;Offline;Lifestyle;4.864.313,71;3.862.841,88;4.361.339,16;2820820,042
+Maicao;3436307;465 Maicao - Comercio # 569, locales 5-6, Río Bueno;Offline;Lifestyle;3.279.424,79;3.213.680,92;2.420.041,06;2397877,084
+Maicao;3399030;057 Maicao - Av. Valparaíso 620, Villa Alemana;Offline;Lifestyle;2.468.921,92;2.352.114,94;2.315.263,05;1912404,113
+Maicao;3399001;454 Maicao - Gregorio Cordovez # 516;Offline;Lifestyle;2.325.225,92;2.764.625,02;2.442.115,10;2654074,136
+Maicao;3436280;470 Maicao - Ohiggins 581, Santiago;Offline;Lifestyle;3.192.056,83;3.892.761,95;3.386.799,07;3445241,185
+Preunic;3394326;024 Preunic - Av. Baquedano 676, Antofagasta;Offline;Lifestyle;6.881.274,96;5.192.112,80;6.010.572,19;4521111,07
+Preunic;3399532;086 Preunic - Balmaceda 298, Buin;Offline;Lifestyle;4.054.521,59;4.917.561,95;5.908.756,98;4333456,4
+Preunic;3399547;076 Preunic - Ramón Picarte 333, Valdivia;Offline;Lifestyle;2.078.313,58;1.706.188,68;1.949.936,38;1286883,85
+Preunic;3394349;078 Preunic - Jorge Alessandri 3177, Talcahuano;Offline;Lifestyle;3.813.328,82;3.749.267,55;3.865.474,62;2254782,25
+Preunic;3399522;065 Preunic - Uno Sur 1537, Talca;Offline;Lifestyle;3.759.740,74;3.452.049,58;3.560.854,85;2365452,25
+Preunic;3399536;104 Preunic - Huérfanos 735, Santiago;Offline;Lifestyle;1.445.895,22;1.461.565,14;1.470.490,14;691247,2
+Preunic;3394522;028 Preunic - Av. Pajaritos 2100, Maipú;Offline;Lifestyle;1.445.971,38;1.050.997,29;1.353.041,90;1047773,58
+Preunic;3394358;081 Preunic - Vicuña Mackenna 66, Ovalle;Offline;Lifestyle;3.535.390,04;4.216.454,41;3.161.114,81;2808297,66
+Preunic;3394315;014 Preunic - Av. Libertad 1348, Viña del Mar;Offline;Lifestyle;5.585.175,75;5.143.001,50;5.655.001,38;4870114,27
+Preunic;3399541;058 Preunic - Av. Apoquindo 6033, Las Condes;Offline;Lifestyle;1.040.201,61;836.422,44;1.228.948,70;628497,31
+Maicao;3399160;079 Maicao - Diego Portales 986, Temuco;Offline;Lifestyle;1.608.845,93;1.733.537,90;1.407.057,01;913801,0595
+Maicao;3399220;259 Maicao - José Manuel Balmaceda 224, Buin;Offline;Lifestyle;4.388.586,76;3.740.509,95;4.566.771,05;3805625,212
+Maicao;3399241;034 Maicao - San Isidro 23, Santiago;Offline;Lifestyle;1.285.846,99;1.743.726,97;1.186.630,00;1229876,043
+Maicao;3394389;025 Maicao - Av. Valparaíso 612, Viña del Mar;Offline;Lifestyle;4.159.274,92;3.220.408,92;3.608.312,97;2537122,174
+Maicao;3436281;468 Maicao - Av. Pedro Montt 2625, Valparaíso;Offline;Lifestyle;578.579,00;839.421,00;640.853,00;828790,0299
+Maicao;3399261;002 Maicao - Unión Latino Americana 34, Santiago;Offline;Lifestyle;261.396,97;688.114,98;324.619,01;318382,0129
+Preunic;3394332;097 Preunic - Eleuterio Ramírez 2078, Calama;Offline;Lifestyle;1.855.956,13;2.509.056,69;1.724.651,53;2669360,4
+Preunic;3399346;009 Preunic - Av. Independencia 780, Rancagua;Offline;Lifestyle;9.927.404,83;10.111.869,11;8.870.759,80;7579170,69
+Preunic;3399543;119 Preunic - Av. Independencia 565, Independencia;Offline;Lifestyle;820.320,55;982.519,93;1.152.541,18;592580,73
+Preunic;3394491;100 Preunic - Av. Concha y Toro 160, Puente Alto;Offline;Lifestyle;2.549.575,00;1.920.938,46;2.385.802,44;1998715,67
+Preunic;3436232;134 Preunic - Av. Balmaceda 2355, Antofagasta;Offline;Lifestyle;3.029.745,95;2.448.465,46;3.247.061,37;2512627,88
+Maicao;3399245;004 Maicao - Meiggs 13, Santiago;Offline;Lifestyle;1.132.763,93;996.275,95;1.023.068,06;946939,0609
+Maicao;3399257;049 Maicao - San Antonio 282, Santiago;Offline;Lifestyle;259.992,97;778.967,98;454.918,98;421287,013
+Maicao;3399161;063 Maicao - Bulnes 303, Temuco;Offline;Lifestyle;1.254.153,91;659.828,94;953.843,05;0
+Maicao;3399181;064 Maicao - Eleuterio Ramírez 1085, Osorno;Offline;Lifestyle;2.894.767,89;2.386.589,91;2.415.879,05;1937379,143
+Maicao;3394295;424 Maicao - Baquedano 86, Coquimbo;Offline;Lifestyle;2.987.680,84;1.635.263,97;2.075.078,10;1492024,083
+Maicao;3399119;227 Maicao - Esmeralda 312, Arauco;Offline;Lifestyle;5.872.311,69;6.008.946,82;5.354.711,08;4508478,101
+Maicao;3394395;410 Maicao - Av. Valparaíso 1070, Viña del Mar;Offline;Lifestyle;2.540.014,96;2.380.731,96;2.321.319,05;2230994,055
+Maicao;3399214;281 Maicao - Carlos Bories 735, Punta Arenas;Offline;Lifestyle;1.460.183,98;2.253.680,95;987.790,01;1425653,07
+Maicao;3399229;058 Maicao - Serrano 395, Melipilla;Offline;Lifestyle;3.627.445,77;2.922.085,90;3.033.036,95;2602591,142
+Maicao;3399099;266 Maicao - Peña 884, Curicó;Offline;Lifestyle;915.901,95;831.475,96;944.209,01;1134732,033
+Maicao;3399067;056 Maicao - Independencia 784, Rancagua;Offline;Lifestyle;2.475.547,83;2.247.497,95;1.933.373,03;1202620,093
+Maicao;3399262;289 Maicao - Av. Libertador Bernardo OHiggins 1322, Santiago;Offline;Lifestyle;459.883,01;854.282,01;759.379,02;722122,0237
+Maicao;3394495;097 Maicao - Av. Concha y Toro 464, Puente Alto;Offline;Lifestyle;1.448.393,95;1.073.281,98;1.113.773,03;1105519,032
+Preunic;3394330;054 Preunic - Av. Balmaceda 3242, Calama;Offline;Lifestyle;1.726.400,83;1.576.750,00;2.098.650,68;1277042,55
+Preunic;3399533;074 Preunic - Plaza de Armas 489, Melipilla;Offline;Lifestyle;2.031.625,12;2.035.981,71;1.962.559,90;1869373,38
+Preunic;3394520;020 Preunic - Av. Américo Vespucio 1737, Huechuraba;Offline;Lifestyle;4.052.792,52;2.581.738,32;3.744.414,73;3425619,68
+Preunic;3394334;121 Preunic - Las Terrazas 1203-1205, Antofagasta;Offline;Lifestyle;5.021.676,24;4.754.853,25;5.274.541,72;4345631,29
+Preunic;3394333;114 Preunic - Av. Diego Portales 640, Arica;Offline;Lifestyle;1.842.944,67;1.699.159,35;2.115.597,47;1529021,48
+Preunic;3399542;124 Preunic - Avenida San Martin 50, local 10;Offline;Lifestyle;2.514.510,46;2.987.204,64;3.196.003,23;2375859,99
+Preunic;3394325;126 Preunic - Jose Joaquín Pérez 233, Calera;Offline;Lifestyle;2.481.969,91;2.347.579,64;1.870.607,41;1457116,92
+Preunic;No Definido;147 Preunic - Av. Américo Vespucio N 399 Local 633-634, Maipú;Offline;Lifestyle;0;2.099.076,70;0,00;1019784,007
+Preunic;3394356;051 Preunic - OHiggins 513, Copiapó;Offline;Lifestyle;4.334.075,20;5.193.331,36;4.492.903,31;3534915,23
+Preunic;3400936;127 Preunic - Gobernador Carlos Bories 858, Punta Arenas;Offline;Lifestyle;3.676.190,84;3.917.107,53;3.581.036,06;4117983,1
+Preunic;3399519;123 Preunic - Independecia 584, Rancagua;Offline;Lifestyle;4.489.242,87;3.138.294,18;4.179.056,28;3113189,94
+Preunic;3411569;133 Preunic - UNO SUR 1582, 1588 y 1590;Offline;Lifestyle;6.902.354,62;6.808.978,89;6.622.579,67;6539979,39
+Maicao;3394437;296 Maicao - Presidente Jorge Alessandri Rodríguez 20040, San Bernardo;Offline;Lifestyle;2.080.023,88;2.348.064,93;2.303.628,08;2042071,214
+Maicao;3399222;232 Maicao - Av. Bernardo OHiggins 1074, Talagante;Offline;Lifestyle;3.753.684,91;4.223.147,89;4.488.371,02;4052936,224
+Maicao;3399036;207 Maicao - Pedro Montt 2098, Valparaíso;Offline;Lifestyle;2.274.992,96;1.945.958,02;1.615.299,06;1269176,007
+Maicao;3399179;062 Maicao - Pudeto 254, Ancud;Offline;Lifestyle;5.007.284,75;595.289,00;4.378.434,20;2557330,016
+Maicao;3399158;405 Maicao - Camilo Henríquez 425, Villarrica;Offline;Lifestyle;2.919.438,84;2.988.931,93;3.104.930,05;2531709,102
+Maicao;3394399;073 Maicao - Manuel Antonio Matta 2465, Antofagasta;Offline;Lifestyle;1.819.740,93;1.727.654,98;1.576.015,01;1331588,116
+Maicao;3399087;094 Maicao - Arturo Prat 2378-2382, San Javier de Loncomilla;Offline;Lifestyle;8.838.800,68;7.677.272,96;7.914.834,14;6029359,006
+Maicao;3399180;086 Maicao - San Martín 595, Castro;Offline;Lifestyle;4.156.554,82;2.967.696,95;3.527.484,18;2139126,055
+Maicao;3394498;412 Maicao - Av. Concha y Toro 26, Puente Alto;Offline;Lifestyle;2.550.424,96;1.971.157,95;2.448.062,09;2094290,032
+Maicao;3410739;500 Maicao - Unión Latinoamericana 34n;Offline;Lifestyle;713.952,97;469.133,01;1.073.236,99;737805,9857
+Maicao;3399187;215 Maicao - Illapel 10, Puerto Montt;Offline;Lifestyle;2.088.831,91;2.220.776,92;1.790.819,03;1371797,074
+Maicao;3394397;065 Maicao - 21 de Mayo #233, Arica;Offline;Lifestyle;1.354.945,90;1.022.516,94;1.102.431,01;913324,0242
+Maicao;3436378;469 Maicao - Av. Irarrázaval 2771, Ñuñoa;Offline;Lifestyle;952.463,95;1.526.819,99;988.152,01;1117682,094
+Maicao;3399251;003 Maicao - Meiggs 24, Santiago;Offline;Lifestyle;1.021.066,97;842.765,00;745.137,99;1258826,042
+Preunic;3394360;085 Preunic - Maipú 110, Copiapó;Offline;Lifestyle;4.082.108,17;3.871.767,34;3.984.501,99;3274972,82
+Preunic;3394312;011 Preunic - Av. Uruguay 359, Valparaíso;Offline;Lifestyle;2.781.063,32;2.569.789,53;3.056.593,54;2336492,41
+Preunic;3436275;136 Preunic - Del Salvador 417, Puerto Varas;Offline;Lifestyle;2.642.517,57;2.736.562,08;3.109.687,77;2319446,85
+Preunic;3399540;040 Preunic - Alameda 3105, Santiago;Offline;Lifestyle;1.331.903,93;953.294,72;714.392,70;656824,07
+Preunic;3399527;019 Preunic - Urmeneta 580, Puerto Montt;Offline;Lifestyle;2.609.856,83;2.273.976,95;3.030.552,77;1484733,25
+Preunic;3394342;033 Preunic - Av. Diego Portales 968, Temuco;Offline;Lifestyle;1.969.566,62;2.021.373,27;1.976.649,50;1349830,09
+Maicao;3410738;457 Maicao - Manuel Bulnes # 537, local 101;Offline;Lifestyle;1.528.313,94;1.471.568,96;1.394.689,02;815064,0463
+Maicao;3399026;090 Maicao - Chacabuco 232, Quillota;Offline;Lifestyle;2.560.674,88;2.193.597,90;2.593.872,00;1859731,131
+Maicao;3394496;235 Maicao - Jose Luis Coo 113, Puente Alto;Offline;Lifestyle;2.472.624,80;2.443.600,97;2.042.032,00;1782234,107
+Maicao;3399117;253 Maicao - Arturo Prat 1280, Curanilahue;Offline;Lifestyle;7.175.088,61;5.734.167,86;5.876.999,12;5200315,97
+Maicao;3399246;067 Maicao - Av. Camilo Henríquez 3692, Puente Alto;Offline;Lifestyle;1.706.668,82;1.556.987,98;2.071.574,05;2166894,145
+Maicao;3394297;450 Maicao - Manuel Bulnes 499, Salamanca;Offline;Lifestyle;4.376.141,77;3.561.724,93;3.372.998,18;3342974,013
+Maicao;No Definido;478 Maicao - Pedro Aguirre Cerda 10578, local 105 y 106, Antofagasta;Offline;Lifestyle;0;1.530.044,98;0,00;1019784,007
+Maicao;3399252;202 Maicao - Alameda 1483, Santiago;Offline;Lifestyle;774.678,91;849.708,98;604.392,97;624418,9896
+Maicao;No Definido;477 Maicao - El Roble 770, local 6-8, Chillán;Offline;Lifestyle;0;1.357.018,93;0,00;1019784,007
+Preunic;3394316;026 Preunic - Av. Valparaíso 449, Viña del Mar;Offline;Lifestyle;1.931.331,92;1.783.385,17;2.322.275,48;1663247,53
+Preunic;3399539;072 Preunic - Av. Libertador Bernardo OHiggins 1395, Santiago;Offline;Lifestyle;1.114.808,66;1.024.371,04;1.133.091,82;917465,01
+Preunic;3436325;137 Preunic - Av. Andres Bello 2425, Providencia;Offline;Lifestyle;3.605.608,37;3.632.638,03;3.655.113,56;3638414,29
+Preunic;3394324;117 Preunic - Valparaíso 610-612, Valparaíso;Offline;Lifestyle;2.097.022,76;2.492.084,91;2.384.468,45;2276277,22
+Preunic;3394321;070 Preunic - Arturo Prat 982, San Felipe;Offline;Lifestyle;3.012.551,64;2.396.189,95;2.327.316,32;1820434,63
+Preunic;3394530;060 Preunic - Puente 722, Santiago;Offline;Lifestyle;976.510,43;902.298,46;1.307.514,88;1125753,09
+Maicao;3399029;219 Maicao - Urmeneta 64, Limache;Offline;Lifestyle;2.394.195,96;2.539.673,91;1.744.213,10;1962884,02
+Maicao;3394423;028 Maicao - Av. Vicuña Mackenna 6100, La Florida;Offline;Lifestyle;2.511.708,84;2.556.799,87;2.019.466,94;2435059,182
+Maicao;3399127;448 Maicao - Manuel Montt 480, Coronel;Offline;Lifestyle;1.230.293,94;1.070.179,98;1.271.632,00;1175184,976
+Maicao;3394432;069 Maicao - Av. Américo Vespucio 75, La Cisterna;Offline;Lifestyle;6.042.889,81;5.387.519,94;5.900.719,03;4755613,339
+Maicao;3394438;413 Maicao - José Miguel Carrera 6151, San Miguel;Offline;Lifestyle;2.363.096,92;2.066.839,93;2.461.836,07;2500581,094
+Maicao;3399027;443 Maicao - Av. Urmeneta 119, Limache;Offline;Lifestyle;2.929.511,82;2.752.285,93;2.314.236,11;2229120,007
+Maicao;3394393;260 Maicao - Condell 1391, Valparaíso;Offline;Lifestyle;1.612.874,85;1.376.307,96;1.638.955,05;1076993,007
+Maicao;3399224;201 Maicao - Av. 5 de Abril #177-A, Maipú;Offline;Lifestyle;2.151.962,95;2.897.549,93;2.581.947,06;2137045,078
+Maicao;3399327;257 Maicao - Martínez de Rosas 592, Panguipulli;Offline;Lifestyle;2.718.475,89;1.970.523,94;2.496.416,05;2004749,018
+Maicao;3399219;054 Maicao - Av. Pajaritos 1948, Maipú;Offline;Lifestyle;6.305.726,62;5.780.073,83;5.802.887,99;5021844,304
+Maicao;3399221;029 Maicao - Balmaceda 26, Buin;Offline;Lifestyle;5.278.633,81;4.841.379,88;4.433.036,12;3904968,197
+Maicao;No Definido;999 Maicao - Sin Dirección;Offline;Lifestyle;-105.995,99;-43.198,00;0,00;1019784,007
+Maicao;3394293;218 Maicao - Aldunate 1416, Coquimbo;Offline;Lifestyle;2.319.815,01;1.483.145,98;2.131.548,05;1592357,159
+Maicao;3399098;037 Maicao - Prat 520, Curicó;Offline;Lifestyle;1.703.789,84;1.359.167,95;1.686.004,04;824268,0656
+Maicao;3394396;425 Maicao - Av. Argentina 602, Valparaíso;Offline;Lifestyle;2.056.911,98;2.252.601,93;2.311.295,06;2510043,057
+Maicao;No Definido;481 Maicao - Sin Direccion;Offline;Lifestyle;0;1.084.072,02;0,00;1019784,007
+Preunic;3394422;046 Preunic - Av. Providencia 1320, Providencia;Offline;Lifestyle;1.628.850,58;1.197.220,92;1.171.487,17;1053852,1
+Preunic;3394515;002 Preunic - Estado 370, Santiago;Offline;Lifestyle;4.984.220,99;5.419.133,86;4.917.647,63;3762092,18
+Preunic;3394340;025 Preunic - Lautaro 170, Angol;Offline;Lifestyle;8.841.860,65;8.437.174,97;8.088.744,16;6171115,09
+Preunic;3394487;006 Preunic - José Luis Coo 040, Puente Alto;Offline;Lifestyle;3.634.436,12;2.851.890,93;3.121.148,66;2673684,86
+Preunic;3399715;116 Preunic - Av. Pedro Montt 1872, Valparaíso;Offline;Lifestyle;3.189.428,48;3.036.425,42;2.891.766,64;2036013,84
+Preunic;3399545;115 Preunic - Llano Subercaseaux 3519, San Miguel;Offline;Lifestyle;3.146.916,92;3.073.622,44;3.458.051,94;2649539,76
+Preunic;3399529;122 Preunic - Francisco Bilbao 303, Aysén;Offline;Lifestyle;5.770.940,70;5.637.064,51;5.251.065,40;5063141,79
+Preunic;3400931;128 Preunic - Bandera 101 Local 4, Santiago;Offline;Lifestyle;977.402,93;944.582,73;931.050,05;763218,4
+Preunic;3394518;010 Preunic - Puente 689, Santiago;Offline;Lifestyle;1.104.691,28;1.243.513,11;1.155.429,31;969257,38
+Maicao;3399255;046 Maicao - Alameda 3780, Estación Central;Offline;Lifestyle;981.461,01;1.869.969,97;1.341.122,07;2044489,139
+Maicao;3394401;258 Maicao - 21 de Mayo #465, Arica;Offline;Lifestyle;402.984,98;477.282,00;588.253,00;1015763,044
+Maicao;3399266;455 Maicao - José Joaquín Prieto # 5531, Local 1006;Offline;Lifestyle;1.542.239,86;1.431.947,97;1.491.874,00;1334345,977
+Maicao;3399267;409 Maicao - Av. Bernardo OHiggins 5239, Lo Prado;Offline;Lifestyle;1.797.787,97;1.698.761,96;1.757.496,07;2031593,026
+Maicao;3399225;249 Maicao - Av. Inmaculada Concepción 060, Colina;Offline;Lifestyle;1.850.908,86;1.860.466,96;2.213.681,13;1436652,966
+Maicao;3399182;229 Maicao - Paseo Talca 120-122, Puerto Montt;Offline;Lifestyle;1.978.576,97;1.677.971,00;1.525.302,04;1153827,094
+Maicao;3399092;061 Maicao - Av. Circunvalación Oriente 1055, Talca;Offline;Lifestyle;5.294.275,75;5.558.096,93;4.342.143,01;4420902,253
+Maicao;3399264;261 Maicao - Providencia 2591, Providencia;Offline;Lifestyle;907.700,95;627.122,02;785.580,98;683375,0168
+Maicao;3399227;210 Maicao - Ortuzar 935, Melipilla;Offline;Lifestyle;1.589.701,84;0;1.324.639,12;0
+Maicao;3399243;252 Maicao - San Francisco de Borja, Local 300, Estación Central;Offline;Lifestyle;1.956.132,91;1.710.080,96;1.713.024,05;1621621,068
+Maicao;3399233;031 Maicao - Av. Recoleta 2293, Recoleta;Offline;Lifestyle;1.304.229,96;1.730.671,00;1.193.919,06;957047,9919
+Maicao;3399157;095 Maicao - Av. Gerónimo de Alderete 623, Villarrica;Offline;Lifestyle;3.461.143,81;3.457.867,85;2.763.340,00;2116201,133
+Maicao;3436206;474 Maicao - Av. Providencia 1303, Providencia;Offline;Lifestyle;147.897,97;852.994,02;665.254,03;829635,0013
+Preunic;3394328;042 Preunic - Paseo Arturo Prat 651, Antofagasta;Offline;Lifestyle;6.460.168,47;5.546.285,36;5.619.335,89;7474324,55
+Preunic;3394533;105 Preunic - Av. Américo Vespucio 399, Maipú;Offline;Lifestyle;3.173.313,50;3.684.198,35;3.486.376,32;3736511,94
+Preunic;No Definido;146 Preunic - Germán Riesco N 946 A, San Vicente de Tagua Tagua;Offline;Lifestyle;0;1.273.014,40;0,00;1019784,007
+Preunic;3436291;135 Preunic - Alberto Solari 1400, La Serena;Offline;Lifestyle;1.804.350,59;2.284.501,31;1.631.609,00;1811807,13
+Preunic;3436274;139 Preunic - Av. Vicente Méndez 1545-1671, Chillán;Offline;Lifestyle;0;3.088.921,08;1.042.062,77;2372282,85
+Preunic;3400921;118 Preunic - Pedro Aguirre Cerda 702, Lota;Offline;Lifestyle;2.579.885,49;3.242.108,59;2.391.081,28;2599565,71
+Preunic;3394354;029 Preunic - Aldunate 1334, Coquimbo;Offline;Lifestyle;1.620.780,00;1.503.946,99;1.439.220,51;1452254,58
+Maicao;3399183;213 Maicao - Antonio Varas 834, Puerto Montt;Offline;Lifestyle;2.133.915,94;2.182.826,94;1.487.635,06;1341884,996
+Maicao;3394436;284 Maicao - Av. Vicuña Mackenna 7287, La Florida;Offline;Lifestyle;1.059.902,99;1.237.751,99;890.926,09;868227,9984
+Maicao;3399022;032 Maicao - Claudio Vicuña 932, Quilpué;Offline;Lifestyle;2.908.906,98;2.258.551,92;2.611.058,09;1832802,11
+Maicao;3399093;022 Maicao - Chacabuco 411, Linares;Offline;Lifestyle;5.729.846,56;5.435.118,98;5.992.357,05;4197608,047
+Maicao;3394400;091 Maicao - Eleuterio Ramírez 1920, Calama;Offline;Lifestyle;2.238.124,88;1.222.599,99;1.590.437,95;1095306,107
+Maicao;3399064;214 Maicao - Manuel Rodríguez 734, San Fernando;Offline;Lifestyle;2.255.951,85;1.502.325,92;1.932.717,04;1495908,147
+Maicao;3399021;024 Maicao - Valparaíso 716, Villa Alemana;Offline;Lifestyle;4.181.468,86;3.533.183,97;3.897.084,02;3218280,113
+Maicao;3399326;212 Maicao - Picarte 353, Valdivia;Offline;Lifestyle;2.268.056,96;1.999.889,95;2.049.596,04;1376719,128
+Maicao;3394390;053 Maicao - Av. Centenario 158, San Antonio;Offline;Lifestyle;1.769.143,93;1.756.395,01;1.473.684,96;1483382,065
+Maicao;3399155;251 Maicao - General Lagos 570, Victoria;Offline;Lifestyle;5.976.429,67;5.328.430,92;4.325.612,16;3982893,146
+Maicao;3399091;017 Maicao - Uno Sur 1598, Talca;Offline;Lifestyle;4.280.041,76;3.714.946,96;3.700.038,93;3013844,254
+Maicao;3399185;426 Maicao - Av. Diego Portales 1001, Puerto Montt;Offline;Lifestyle;2.349.457,96;2.086.762,89;1.970.443,08;1796198,055
+Maicao;3399090;081 Maicao - Aníbal Pinto 632, Parral;Offline;Lifestyle;6.399.757,70;7.519.556,81;7.122.052,21;6276266,084
+Maicao;3394294;245 Maicao - Vicuña Mackenna 01, Ovalle;Offline;Lifestyle;4.637.327,80;4.166.699,84;3.520.062,99;2885599,251
+Maicao;3399250;230 Maicao - Huérfanos 1157, Santiago;Offline;Lifestyle;786.566,00;786.022,00;670.696,05;671479,0628
+Maicao;3436437;479 Maicao - Av. Ortuzar 601, Melipilla;Offline;Lifestyle;0;1.442.410,97;0,00;1316881,037
+Preunic;3394517;007 Preunic - Ahumada 141, Santiago;Offline;Lifestyle;1.612.807,00;2.198.384,58;1.964.008,13;2161487,44
+Preunic;3394346;067 Preunic - Serrano 533, San Carlos;Offline;Lifestyle;7.361.937,38;7.993.456,10;6.779.038,49;6577419,17
+Preunic;3394284;017 Preunic - Av. Vicuña Mackenna Oriente 7110, La Florida;Offline;Lifestyle;7.746.571,56;8.398.110,84;9.265.348,33;6891826,69
+Preunic;3399531;082 Preunic - Av. Bernardo OHiggins 1019, Talagante;Offline;Lifestyle;4.609.041,36;6.179.036,92;5.674.576,88;4278158,29
+Preunic;3394521;021 Preunic - Alameda 3170, Estación Central;Offline;Lifestyle;3.765.639,57;3.826.412,87;3.483.817,82;2809700,67
+Maicao;3399088;222 Maicao - Victoria 510, Cauquenes;Offline;Lifestyle;8.074.304,50;8.277.309,82;6.834.042,19;5930003,097
+Maicao;3436331;462 Maicao - Puente 602 (Puente 2);Offline;Lifestyle;1.362.304,96;1.242.134,04;1.281.655,99;831619,0764
+Maicao;3402828;458 Maicao - Calle Valparaíso # 473-477, locales 1-2;Offline;Lifestyle;1.853.437,83;1.360.142,94;1.717.272,99;1032759,088
+Maicao;3399223;006 Maicao - Monumento 1868, Maipú;Offline;Lifestyle;2.684.312,88;2.828.168,98;2.472.251,03;1517373,153
+Maicao;3399263;274 Maicao - Mar Tirreno 3349, Peñalolén;Offline;Lifestyle;807.150,03;957.917,05;1.103.190,04;675371,0411
+Maicao;3399028;223 Maicao - Ortiz de Rosas 406, La Ligua;Offline;Lifestyle;4.441.244,71;3.731.237,92;4.120.621,15;3043578,034
+Maicao;3394391;060 Maicao - Av. Pedro Montt 1818, Valparaíso;Offline;Lifestyle;2.379.521,94;1.842.649,88;1.749.685,99;1671172,061
+Maicao;3399122;285 Maicao - Av. Carlos Pratt González, Esq. Yobilo, Coronel;Offline;Lifestyle;4.364.855,79;4.080.368,85;4.383.853,99;3878692,164
+Maicao;3399237;221 Maicao - Providencia 1936, Providencia;Offline;Lifestyle;939.574,90;1.067.538,98;839.916,02;786110,0611
+Preunic;3394514;001 Preunic - Alameda 877, Santiago;Offline;Lifestyle;3.027.269,56;2.754.003,91;3.599.591,73;2244260,27
+Preunic;3394351;106 Preunic - Independencia 470, Linares;Offline;Lifestyle;5.643.626,17;4.079.989,97;4.245.682,00;3005863,84
+Preunic;3399537;092 Preunic - Larrain 5862, La Reina;Offline;Lifestyle;2.238.907,65;2.467.219,86;2.717.889,79;2568089,02
+Preunic;3394359;084 Preunic - Calle Cordovez 529-533, La Serena;Offline;Lifestyle;2.289.736,12;2.502.232,04;2.260.350,26;2114600,25
+Preunic;3399347;107 Preunic - Rafael Casanova 113-117, Santa Cruz;Offline;Lifestyle;8.914.693,41;10.978.325,96;8.633.566,62;9133047,7
+Preunic;3394344;043 Preunic - Peña 737, Curicó;Offline;Lifestyle;2.695.115,57;2.653.308,49;2.275.175,28;1670523,19
+Preunic;3394320;056 Preunic - Av. Ramón Freire 2414, Quilpué;Offline;Lifestyle;3.877.146,14;4.165.268,94;4.070.543,75;4310870,2
+Preunic;3394350;093 Preunic - Camilo Henríquez 537, Villarrica;Offline;Lifestyle;4.090.962,96;4.360.703,83;3.461.062,64;2885293,04
+Preunic;3394311;004 Preunic - Av. Centenario 144, San Antonio;Offline;Lifestyle;3.637.432,54;4.469.663,80;3.575.682,25;3650727,22
+Preunic;3399528;027 Preunic - Illapel 10, Puerto Montt;Offline;Lifestyle;2.197.110,09;2.545.377,87;2.379.688,22;2317767,76
+Preunic;3394353;110 Preunic - Arauco 561, Valdivia;Offline;Lifestyle;3.143.026,81;3.356.704,40;2.901.482,99;3236057,44
+Preunic;3394419;005 Preunic - Providencia 2212, Providencia;Offline;Lifestyle;932.104,39;1.027.346,04;725.675,09;927395,56
+Preunic;3399546;098 Preunic - Padre Hurtado Sur 875, Las Condes;Offline;Lifestyle;649.634,09;1.050.228,55;1.040.081,42;952634,27
+Maicao;3436209;467 Maicao - Gabriela Mistral 435, Vicuña;Offline;Lifestyle;2.296.305,92;2.788.568,96;1.489.404,02;1767747,999
+Maicao;3394426;267 Maicao - Eyzaguirre 509, San Bernardo;Offline;Lifestyle;2.785.026,84;2.137.238,94;2.147.379,95;2148497,21
+Maicao;3394494;044 Maicao - Av. Matta 060, Ñuñoa;Offline;Lifestyle;1.348.800,92;1.129.186,99;1.542.059,10;1131447,954
+Maicao;3399063;012 Maicao - Rafael Cassanova 388, Santa Cruz;Offline;Lifestyle;4.505.068,82;4.346.251,83;3.380.399,16;2394116,006
+Maicao;3394388;023 Maicao - Prat 219, San Felipe;Offline;Lifestyle;3.902.572,92;3.606.207,88;2.956.094,03;2477302,183
+Maicao;3436330;472 Maicao - Independencia 801, local 2, Independencia;Offline;Lifestyle;599.379,96;329.282,01;326.896,99;405062,9933
+Maicao;3436327;475 Maicao - Maipú 241, Los Andes;Offline;Lifestyle;53.998,99;1.227.005,95;673.252,08;1691001,103
+Preunic;3394352;109 Preunic - Carlos Pratt González 913, Coronel;Offline;Lifestyle;6.057.780,68;5.557.860,49;5.311.518,59;5969931,31
+Preunic;3394317;037 Preunic - Av. Independencia 1728, Valparaíso;Offline;Lifestyle;2.947.633,57;2.278.809,54;2.677.895,08;2378732,65
+Preunic;3394288;059 Preunic - Av. Vicuña Mackenna 6100, La Florida;Offline;Lifestyle;2.387.877,80;1.739.475,36;2.389.719,92;1406255,13
+Preunic;3394287;031 Preunic - Av. Américo Vespucio 33, La Cisterna;Offline;Lifestyle;3.151.723,33;2.812.649,49;3.269.883,19;2842566,09
+Preunic;No Definido;144 Preunic - Constitución esq Ignacio Silva, Illapel;Offline;Lifestyle;0;4.188.899,96;0,00;1019784,007
+Preunic;3410734;130 Preunic - Av. Angamos 745, Antofagasta;Offline;Lifestyle;3.336.683,84;3.302.440,40;3.288.910,10;3064508,23
+Preunic;No Definido;148 Preunic - Av Edo Frei Montalba N 01110 Local 02, Punta Arenas;Offline;Lifestyle;0;1.169.202,37;0,00;1019784,007
+Preunic;3394421;044 Preunic - Encomenderos 54, Las Condes;Offline;Lifestyle;4.397.349,88;2.380.332,01;3.659.968,76;2256840,95
+Preunic;3436407;145 Preunic - Avenida Vicuña Mackenna 7110, La Florida;Offline;Lifestyle;0;1.486.759,82;0,00;1232221,2
+Preunic;3399544;038 Preunic - Av. Manquehue Sur 31, Las Condes;Offline;Lifestyle;1.192.472,82;1.137.281,81;917.113,96;1564851,19
+Preunic;3399534;050 Preunic - Santa Filomena 499, Recoleta;Offline;Lifestyle;775.026,77;1.218.689,71;699.177,36;1131174,73
+Maicao;3399065;040 Maicao - Rafael Cassanova 239, Santa Cruz;Offline;Lifestyle;3.903.313,85;2.799.355,96;3.681.744,09;2302331,032
+Maicao;3394292;089 Maicao - OHiggins 539, Copiapó;Offline;Lifestyle;3.770.260,80;3.017.714,93;3.385.251,00;3025464,259
+Maicao;3394392;070 Maicao - Condell 1212, Valparaíso;Offline;Lifestyle;1.199.959,90;1.371.726,01;1.072.067,01;1270754,947
+Maicao;3394290;048 Maicao - Aldunate 1237, Coquimbo;Offline;Lifestyle;1.391.856,94;1.493.398,93;1.189.577,00;1016486,112
+Maicao;3399340;224 Maicao - Cinco de Abril 740, Chillán;Offline;Lifestyle;4.390.826,75;2.884.313,93;3.194.729,03;2785460,156
+Maicao;3399089;082 Maicao - Independencia 615, Linares;Offline;Lifestyle;5.511.910,71;4.453.361,89;4.406.864,18;3541421,948
+Maicao;3399156;287 Maicao - Lautaro 38, Angol;Offline;Lifestyle;5.728.851,67;5.355.049,84;3.679.645,99;3519257,186
+Maicao;3399238;072 Maicao - Av. Apoquindo 4400, Las Condes;Offline;Lifestyle;1.910.462,94;1.898.617,01;1.592.596,08;1680133,011
+Maicao;3399066;226 Maicao - Arturo Pratt 74A-74B, Rengo;Offline;Lifestyle;4.463.412,81;2.853.969,91;2.498.260,09;3056547,011
+Maicao;3399208;076 Maicao - Av. Bilbao 280, Coyhaique;Offline;Lifestyle;4.446.230,90;3.678.332,85;3.815.990,15;3524526,125
+Maicao;3399033;038 Maicao - José Joaquín Pérez 236, Calera;Offline;Lifestyle;1.828.921,92;2.854.299,92;1.967.176,11;1714915,105
+Maicao;3399226;275 Maicao - Av. José Miguel Carrera 10375, El Bosque;Offline;Lifestyle;3.334.220,81;2.627.109,00;2.845.592,08;2183570,044
+Maicao;3399260;429 Maicao - Av. Libertador Bernardo OHiggins 3110, Estación Central;Offline;Lifestyle;690.563,99;1.028.533,98;816.464,03;934991,0563
+Maicao;3399242;428 Maicao - Bandera 302, Santiago;Offline;Lifestyle;657.560,00;740.264,00;608.653,99;672871,0415
+Preunic;3394362;096 Preunic - Prolongación Benavente 1075, Ovalle;Offline;Lifestyle;1.799.978,53;2.453.076,71;2.048.828,95;1815741,27
+Preunic;3394363;108 Preunic - Baquedano 86, Coquimbo;Offline;Lifestyle;1.384.787,53;1.639.095,29;1.509.355,54;1392521,34
+Preunic;3394347;069 Preunic - 5 de Abril #735, Chillán;Offline;Lifestyle;3.856.091,47;4.128.060,02;3.610.325,53;3930091,62
+Preunic;3394322;071 Preunic - Esmeralda 273, Los Andes;Offline;Lifestyle;5.965.631,84;5.251.867,46;5.617.286,71;4075569,12
+Preunic;3410736;132 Preunic - Av. Héroes de La Concepción 2555, Iquique;Offline;Lifestyle;3.369.186,31;3.053.218,70;3.978.047,43;3338091,61
+Preunic;3436324;138 Preunic - San Martín 547, Castro;Offline;Lifestyle;1.327.074,91;3.053.488,83;1.586.894,75;2499155,89
+Preunic;3394488;049 Preunic - Av. Jorge Alessandri 20040, San Bernardo;Offline;Lifestyle;2.705.628,03;2.776.724,58;3.099.941,67;2945514,18
+Maicao;3399069;272 Maicao - Paseo Independencia 683, Rancagua;Offline;Lifestyle;2.532.740,87;2.631.621,99;1.619.518,03;2341955,141
+Maicao;3399121;209 Maicao - Saavedra 603, Cañete;Offline;Lifestyle;7.212.464,65;8.109.855,77;6.931.518,16;6379269,89
+Maicao;3399097;264 Maicao - Uno Sur 1371, Talca;Offline;Lifestyle;4.325.498,70;2.918.124,87;3.068.032,99;2264742,122
+Maicao;3394424;068 Maicao - Av. Vicuña Mackenna Oriente 7110, La Florida;Offline;Lifestyle;2.532.921,95;2.741.663,96;2.040.421,01;2466948,124
+Maicao;3399095;009 Maicao - Peña 749, Curicó;Offline;Lifestyle;4.367.595,66;5.365.237,83;4.443.222,08;3293185,151
+Maicao;3399249;279 Maicao - Av. Bernardo OHiggins 1041, Santiago;Offline;Lifestyle;973.873,95;1.173.858,98;1.089.529,00;1324669,063
+Maicao;3399230;441 Maicao - Av. Independencia 565, Independencia;Offline;Lifestyle;1.997.907,84;1.568.769,96;1.857.935,06;1519630,964
+Maicao;3399232;436 Maicao - Dorsal 605, Recoleta;Offline;Lifestyle;1.780.319,83;1.579.868,98;1.866.653,05;1879413,053
+Maicao;3399025;036 Maicao - Esmeralda 211, Los Andes;Offline;Lifestyle;2.819.054,89;2.651.689,92;2.573.019,08;1956759,067
+Maicao;3436379;476 Maicao - Latorre 1987, Calama;Offline;Lifestyle;788.774,00;1.062.474,99;1.013.633,06;1168060,053
+Preunic;3399526;083 Preunic - Eleuterio Ramírez 1027, Osorno;Offline;Lifestyle;3.128.117,30;2.992.590,58;3.223.604,09;2253342,35
+Preunic;3394341;032 Preunic - Colón 476, Los Ángeles;Offline;Lifestyle;11.020.000,95;12.684.837,13;8.905.182,93;9599825,2
+Preunic;3394343;034 Preunic - Aníbal Pinto 627, Concepción;Offline;Lifestyle;1.697.444,56;2.962.438,36;2.534.626,22;2326578,52
+Preunic;3394286;030 Preunic - Av. Camilo Henriquez 3692, Puente Alto;Offline;Lifestyle;6.458.885,65;6.771.261,84;7.205.070,39;7236886,23
+Preunic;3394357;068 Preunic - Arturo Prat 1099, Vallenar;Offline;Lifestyle;4.380.739,86;3.856.199,76;4.541.625,48;3433479,63
+Preunic;3399521;091 Preunic - Teniente Coronel José Bernardo Cuevas 405, Rancagua;Offline;Lifestyle;1.650.898,90;1.210.588,19;2.060.038,75;1834499,24
+Preunic;3399524;090 Preunic - Manuel Montt 1158, Tomé;Offline;Lifestyle;3.197.239,64;3.634.294,51;4.060.846,44;3019546,46
+Maicao;3394291;084 Maicao - Arturo Prat 1035, Vallenar;Offline;Lifestyle;4.360.063,80;3.791.572,97;4.209.613,12;3072535,173
+Maicao;3399236;422 Maicao - Av. Américo Vespucio 399, Maipú;Offline;Lifestyle;1.470.569,98;1.428.846,92;1.650.635,04;1760522,152
+Maicao;3399094;083 Maicao - Freire 664, Constitución;Offline;Lifestyle;3.621.547,81;3.951.808,83;2.916.948,97;3120534,144
+Maicao;3399068;225 Maicao - German Riesco 901, San Vicente de Tagua Tagua;Offline;Lifestyle;2.954.031,83;2.459.215,90;2.519.870,03;1894228,053
+Maicao;3399178;277 Maicao - Juan Ladrilleros 408, Quellón;Offline;Lifestyle;3.871.565,91;3.554.957,00;3.956.824,22;3352018,109
+Maicao;3399683;220 Maicao - 21 de Mayo #1705, Tocopilla;Offline;Lifestyle;2.034.466,88;1.870.058,02;1.725.556,07;1259585,024
+Maicao;3399070;246 Maicao - Santa María 387-B, Rancagua;Offline;Lifestyle;2.074.776,91;1.798.101,96;1.645.966,10;1385514,037
+Maicao;3399100;247 Maicao - 1 Sur # 1152, Talca;Offline;Lifestyle;1.572.444,90;1.482.556,04;1.203.483,03;1015223,046
+Preunic;3394307;015 Preunic - Bulnes 536, Temuco;Offline;Lifestyle;8.914.790,99;8.210.934,55;8.446.508,14;6209959,07
+Preunic;3394519;016 Preunic - Av. Américo Vespucio 1501, Maipú;Offline;Lifestyle;2.450.771,68;3.159.261,98;3.206.414,54;3089543,45
+Preunic;3394345;066 Preunic - Freire 586, Constitución;Offline;Lifestyle;5.974.840,06;6.328.966,21;6.636.111,16;5010060,65
+Preunic;3399525;077 Preunic - Barros Arana 1608, Concepción;Offline;Lifestyle;4.211.277,91;3.174.398,78;4.464.921,65;3931046
+Preunic;3394331;063 Preunic - 21 de Mayo 237, Arica;Offline;Lifestyle;1.263.154,06;835.921,45;1.491.835,17;1069191,2
+Preunic;3394529;041 Preunic - Av. 5 de Abril 177, Maipú;Offline;Lifestyle;2.525.177,62;2.029.886,53;2.663.128,37;2174935,63
+Preunic;3410733;129 Preunic - Diego Portales 822, Quilpué;Offline;Lifestyle;3.145.128,35;3.079.784,26;2.962.139,67;2324203,28
+Preunic;3394489;062 Preunic - Av. Irarrázaval 2626, Ñuñoa;Offline;Lifestyle;1.383.789,12;1.227.379,09;1.175.979,42;1396000,9
+Preunic;3394308;022 Preunic - El Roble 638, Chillán;Offline;Lifestyle;7.538.655,95;7.658.988,75;5.879.386,59;5851250,23
+Preunic;3394516;003 Preunic - Puente 670, Santiago;Offline;Lifestyle;3.792.853,68;4.895.329,18;3.813.727,47;3540047,7
+Preunic;3399538;087 Preunic - OHiggins 581, Quilicura;Offline;Lifestyle;7.670.845,91;7.447.279,42;7.870.942,03;6454338,66
+Preunic;3394531;073 Preunic - Huérfanos 1039, Santiago;Offline;Lifestyle;710.827,46;655.626,93;949.228,49;994529,41
+Maicao;3399024;204 Maicao - Arturo Prat 931, San Felipe;Offline;Lifestyle;3.766.142,89;3.149.877,93;2.709.275,07;2557501,233
+Maicao;3394492;007 Maicao - Concha y Toro 114, Puente Alto;Offline;Lifestyle;2.419.566,94;2.497.404,89;2.477.440,08;1652715,126
+Maicao;3399031;278 Maicao - Claudio Vicuña 868, Quilpué;Offline;Lifestyle;2.111.337,81;2.400.427,92;1.916.735,06;2275299,219
+Maicao;3399234;406 Maicao - Av. San Alberto Hurtado 60, Estación Central;Offline;Lifestyle;1.304.328,96;1.260.161,97;1.306.165,99;1446958,997
+Maicao;3399247;236 Maicao - Av. José Pedro Alessandri 1166, Ñuñoa;Offline;Lifestyle;2.945.301,93;1.834.887,99;3.178.312,07;1822717,098
+Maicao;3399231;434 Maicao - Carvajal 34, La Cisterna;Offline;Lifestyle;1.705.839,94;1.807.885,96;1.462.134,02;1606453,162
+Maicao;3399023;020 Maicao - Arturo Prat 172, Quillota;Offline;Lifestyle;3.157.096,92;3.387.267,93;3.334.966,04;2343107,132
+Maicao;3410742;463 Maicao - Caupolicán # 201;Offline;Lifestyle;3.194.554,68;2.838.107,96;2.403.548,92;2099313,141
